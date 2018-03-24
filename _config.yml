@@ -1,5 +1,5 @@
-title: GAURAV.LAB
-author: Gaurav Kalsi 
+title: GAURAV-LAB
+author: Gaurav Kalsi
 email: your-email@domain.com
 description: > # this means to ignore newlines until "twitter_username:"
   Write an awesome description for your new site here. You can edit this
@@ -41,7 +41,7 @@ minima:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
